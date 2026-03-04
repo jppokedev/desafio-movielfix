@@ -31,7 +31,6 @@ public class Review {
     private User user;
 
     public Review(){
-
     }
 
     public Review(Long id, String text, Movie movie, User user) {
